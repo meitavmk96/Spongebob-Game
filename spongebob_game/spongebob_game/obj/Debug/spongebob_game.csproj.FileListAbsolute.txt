@@ -1,0 +1,41 @@
+C:\Users\linbe\source\repos\spongebob_game\spongebob_game\bin\Debug\spongebob_game.exe.config
+C:\Users\linbe\source\repos\spongebob_game\spongebob_game\bin\Debug\spongebob_game.exe
+C:\Users\linbe\source\repos\spongebob_game\spongebob_game\bin\Debug\spongebob_game.pdb
+C:\Users\linbe\source\repos\spongebob_game\spongebob_game\obj\Debug\spongebob_game.Properties.Resources.resources
+C:\Users\linbe\source\repos\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csproj.GenerateResource.cache
+C:\Users\linbe\source\repos\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csproj.CoreCompileInputs.cache
+C:\Users\linbe\source\repos\spongebob_game\spongebob_game\obj\Debug\spongebob_game.exe
+C:\Users\linbe\source\repos\spongebob_game\spongebob_game\obj\Debug\spongebob_game.pdb
+C:\Users\linbe\source\repos\spongebob_game\spongebob_game\obj\Debug\spongebob_game.Form.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\שיעור 6\מטלה\spongebob_game\spongebob_game\bin\Debug\spongebob_game.exe.config
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\שיעור 6\מטלה\spongebob_game\spongebob_game\bin\Debug\spongebob_game.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\שיעור 6\מטלה\spongebob_game\spongebob_game\bin\Debug\spongebob_game.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\שיעור 6\מטלה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csprojAssemblyReference.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\שיעור 6\מטלה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.Form.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\שיעור 6\מטלה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.Properties.Resources.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\שיעור 6\מטלה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csproj.GenerateResource.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\שיעור 6\מטלה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csproj.CoreCompileInputs.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\שיעור 6\מטלה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\שיעור 6\מטלה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.pdb
+C:\Users\linbe\source\repos\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csprojAssemblyReference.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\spongebob_game\spongebob_game\bin\Debug\spongebob_game.exe.config
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\spongebob_game\spongebob_game\bin\Debug\spongebob_game.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\spongebob_game\spongebob_game\bin\Debug\spongebob_game.pdb
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csprojAssemblyReference.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.Form.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.Properties.Resources.resources
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csproj.GenerateResource.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csproj.CoreCompileInputs.cache
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.exe
+C:\Users\libi\Documents\רופין\שנה ב 2\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.pdb
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\bin\Debug\spongebob_game.exe.config
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\bin\Debug\spongebob_game.exe
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\bin\Debug\spongebob_game.pdb
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csproj.AssemblyReference.cache
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csproj.SuggestedBindingRedirects.cache
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.Form.resources
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.Properties.Resources.resources
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csproj.GenerateResource.cache
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.csproj.CoreCompileInputs.cache
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.exe
+F:\לימודים רופין\שנה ב\סמסטר ב\תוכנה\spongebob_game\spongebob_game\obj\Debug\spongebob_game.pdb
